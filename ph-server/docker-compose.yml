@@ -1,0 +1,60 @@
+# docker-compose up
+# docker-compose up --build
+version: "3.8"
+
+services:
+  ph-server:
+    image: "ph-server:latest"
+    container_name: "ph-server"
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      mysql:
+        condition: service_healthy
+    networks:
+      - network
+
+  redis:
+    image: "redis:latest"
+    container_name: "ph-redis"
+    environment:
+      - REDIS_PASSWORD="portfolio"
+    command: redis-server --requirepass portfolio --notify-keyspace-events KEA
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - network
+
+  mysql:
+    image: "mysql:8.0"
+    container_name: "ph-mysql"
+    environment:
+      MYSQL_ROOT_PASSWORD: "portfolio"
+      MYSQL_ROOT_HOST: "%"
+      MYSQL_DATABASE: dev
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./my.cnf:/etc/mysql/my.cnf
+    networks:
+      - network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  redis_data:
+  mysql_data:
+
+networks:
+  network:

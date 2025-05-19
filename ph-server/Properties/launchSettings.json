@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ph_dev": {
+      "commandName": "Project",
+      "launchUrl": "api",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      },
+      "applicationUrl": "https://localhost:3000;http://localhost:3001"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hoon\\ph-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\utils\\authguardmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\utils\\authguardmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\protocols\\stageprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\protocols\\stageprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\protocols\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\protocols\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\protocols\\itemprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\protocols\\itemprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\protocols\\accountprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\protocols\\accountprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|c:\\hoon\\ph-server\\ph-server\\protocols\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17135359-645A-42AA-A6CB-754EABEF39C8}|ph-server\\ph-server.csproj|solutionrelative:ph-server\\protocols\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Program.cs",
+              "RelativeDocumentMoniker": "ph-server\\Program.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Program.cs",
+              "RelativeToolTip": "ph-server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:02:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "ph-server\\appsettings.Local.json",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\appsettings.Local.json",
+              "RelativeToolTip": "ph-server\\appsettings.Local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T12:39:40.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\DTOs\\AccountDto.cs",
+              "RelativeDocumentMoniker": "ph-server\\Protocols\\DTOs\\AccountDto.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\DTOs\\AccountDto.cs",
+              "RelativeToolTip": "ph-server\\Protocols\\DTOs\\AccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:49:24.454Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthGuardMiddleware.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Utils\\AuthGuardMiddleware.cs",
+              "RelativeDocumentMoniker": "ph-server\\Utils\\AuthGuardMiddleware.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Utils\\AuthGuardMiddleware.cs",
+              "RelativeToolTip": "ph-server\\Utils\\AuthGuardMiddleware.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:22:13.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "ph-server\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Services\\AccountService.cs",
+              "RelativeToolTip": "ph-server\\Services\\AccountService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv28AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:44:14.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StageProtocol.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\StageProtocol.cs",
+              "RelativeDocumentMoniker": "ph-server\\Protocols\\StageProtocol.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\StageProtocol.cs",
+              "RelativeToolTip": "ph-server\\Protocols\\StageProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:49:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemProtocol.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\ItemProtocol.cs",
+              "RelativeDocumentMoniker": "ph-server\\Protocols\\ItemProtocol.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\ItemProtocol.cs",
+              "RelativeToolTip": "ph-server\\Protocols\\ItemProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:49:34.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountProtocol.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\AccountProtocol.cs",
+              "RelativeDocumentMoniker": "ph-server\\Protocols\\AccountProtocol.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\AccountProtocol.cs",
+              "RelativeToolTip": "ph-server\\Protocols\\AccountProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:49:29.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\DTOs\\ItemDto.cs",
+              "RelativeDocumentMoniker": "ph-server\\Protocols\\DTOs\\ItemDto.cs",
+              "ToolTip": "C:\\Hoon\\ph-server\\ph-server\\Protocols\\DTOs\\ItemDto.cs",
+              "RelativeToolTip": "ph-server\\Protocols\\DTOs\\ItemDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:01:49.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

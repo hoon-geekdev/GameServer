@@ -1,0 +1,14 @@
+2025-04-27 22:49:55.366 +09:00 [INF] Load table key: AbilityLevelTable
+2025-04-27 22:49:55.364 +09:00 [INF] Load table key: StageTable
+2025-04-27 22:49:55.364 +09:00 [INF] Load table key: LevelTable
+2025-04-27 22:49:55.366 +09:00 [INF] Load table key: ObjectTable
+2025-04-27 22:49:55.367 +09:00 [INF] Load table key: AbilityTable
+2025-04-27 22:49:55.365 +09:00 [INF] Load table key: ItemTable
+2025-04-27 22:49:55.365 +09:00 [INF] Load table key: StageWaveTable
+2025-04-27 22:49:55.364 +09:00 [INF] Load table key: TextTable
+2025-04-27 22:49:55.497 +09:00 [INF] User profile is available. Using 'C:\Users\stopf\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-27 22:49:55.559 +09:00 [WRN] Overriding address(es) 'http://0.0.0.0:8080'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-04-27 22:49:55.570 +09:00 [INF] Now listening on: http://0.0.0.0:8080
+2025-04-27 22:49:55.625 +09:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-27 22:49:55.625 +09:00 [INF] Hosting environment: Local
+2025-04-27 22:49:55.625 +09:00 [INF] Content root path: C:\Hoon\ph-server\ph-server

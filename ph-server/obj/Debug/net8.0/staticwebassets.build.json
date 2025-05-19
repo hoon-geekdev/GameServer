@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cpKs/14jcOdHtDqEfG7eduoi+Ry2pHfFGaP+Y4HudWE=",
+  "Source": "ph-server",
+  "BasePath": "_content/ph-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
